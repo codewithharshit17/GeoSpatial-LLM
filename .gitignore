@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# ...existing code...
+
+# Data and processed files
+data/
+processed/
+*.tif
+*.geojson
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
+
+# Large files
+*.zip
+*.tar.gz
